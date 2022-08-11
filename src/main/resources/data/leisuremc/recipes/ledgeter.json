@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:bookgeter"
+    }
+  },
+  "result": {
+    "item": "leisuremc:ledmeker",
+    "count": 1
+  }
+}

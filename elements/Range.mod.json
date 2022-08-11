@@ -1,0 +1,33 @@
+{
+  "_fv": 28,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CLERIC"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.WARPED_BUTTON"
+            },
+            "countPrice1": 6,
+            "price2": {
+              "value": "Blocks.FLOWING_LAVA"
+            },
+            "countPrice2": 64,
+            "offer": {
+              "value": "CUSTOM:RangedItemIdk"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

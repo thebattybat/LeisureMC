@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:fabric"
+    },
+    "1": {
+      "item": "leisuremc:fabric"
+    },
+    "2": {
+      "item": "leisuremc:fabric"
+    },
+    "3": {
+      "item": "leisuremc:fabric"
+    },
+    "5": {
+      "item": "leisuremc:fabric"
+    }
+  },
+  "result": {
+    "item": "leisuremc:bowler_dream_leggings",
+    "count": 1
+  }
+}

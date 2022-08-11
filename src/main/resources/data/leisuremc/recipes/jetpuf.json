@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "leisuremc:e"
+    },
+    "3": {
+      "item": "leisuremc:e"
+    },
+    "4": {
+      "item": "leisuremc:falevitator"
+    },
+    "5": {
+      "item": "leisuremc:e"
+    },
+    "7": {
+      "item": "leisuremc:e"
+    }
+  },
+  "result": {
+    "item": "leisuremc:jet_puffed",
+    "count": 3
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "duplicator menu",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "duplicator menu",
+          "x": 167,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 177,
+          "y": 72
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 223,
+          "y": 72
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "q_u_a_g_o_a_t.png",
+          "use1Xscale": false,
+          "name": "q_u_a_g_o_a_t.png",
+          "x": 228,
+          "y": 12
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "name": "arrow.png",
+          "x": 203,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "duplicate",
+          "onClick": {
+            "name": "Convert"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "duplicate",
+          "x": 172,
+          "y": 94
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

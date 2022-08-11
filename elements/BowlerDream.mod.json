@@ -1,0 +1,82 @@
+{
+  "_fv": 28,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "black-wool-felt-fashion-bowler-hat-christys-1616-p",
+    "enableBody": true,
+    "textureBody": "dream-merch-hoodie-sweatshirts-men-women-pullover-harajuku-tracksui-2021men-s-hoodie-streetwear-casual-fashion-oversized.jpg_q90.jpg_",
+    "enableLeggings": true,
+    "textureLeggings": "9412842490190_2",
+    "enableBoots": true,
+    "textureBoots": "16x9-hdm-hoka-002-1626215880",
+    "onHelmetTick": {
+      "name": "BowlerDreamHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "BowlerDreamBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "BowlerDreamLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "BowlerDreamBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "armorTextureFile": "name_",
+    "helmetName": "bowler hat",
+    "bodyName": "dream hoodie",
+    "leggingsName": "shorts",
+    "bootsName": "hokas",
+    "helmetSpecialInfo": [
+      "hmm"
+    ],
+    "bodySpecialInfo": [
+      "cringe"
+    ],
+    "leggingsSpecialInfo": [
+      "shorter than pant"
+    ],
+    "bootsSpecialInfo": [
+      "time to fly"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "diamond_layer_1-1.png_1.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "diamond_layer_1-2.png_1.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "diamond_layer_1-2.png.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "diamond_layer_1-1.png.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 70,
+    "toughness": 1.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": "CUSTOM:boom"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ModPizza"
+      }
+    ]
+  }
+}

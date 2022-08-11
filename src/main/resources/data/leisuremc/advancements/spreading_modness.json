@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "leisuremc:mod_pizza"
+    },
+    "title": {
+      "translate": "advancements.spreading_modness.title"
+    },
+    "description": {
+      "translate": "advancements.spreading_modness.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "spreading_modness": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "leisuremc:mod_pizza"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "minecraft:story/root"
+}

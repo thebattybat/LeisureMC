@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "leisuremc:block/op_portal_ew"
+    },
+    "axis=x": {
+      "model": "leisuremc:block/op_portal_ns"
+    }
+  }
+}

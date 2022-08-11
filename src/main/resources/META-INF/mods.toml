@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="leisuremc"
+version="1.0"
+displayName="LeisureMC"
+credits="Mcreator is held responsible for the making of this mod"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="themcrau1"
+description='''
+Tired of searching in vain for diamonds? If so, this mod is for you!
+'''
+
+[[dependencies.leisuremc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

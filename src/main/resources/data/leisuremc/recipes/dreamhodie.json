@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "leisuremc:dream"
+    },
+    "3": {
+      "item": "leisuremc:fabric"
+    },
+    "4": {
+      "item": "leisuremc:fabric"
+    },
+    "5": {
+      "item": "leisuremc:fabric"
+    },
+    "7": {
+      "item": "leisuremc:fabric"
+    }
+  },
+  "result": {
+    "item": "leisuremc:bowler_dream_chestplate",
+    "count": 1
+  }
+}

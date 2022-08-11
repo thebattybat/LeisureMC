@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "leisuremc:items/pinclipart.com_super-star-clip-art_1103968"
+  }
+}

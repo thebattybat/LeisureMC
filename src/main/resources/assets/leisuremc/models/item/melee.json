@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "leisuremc:items/super_smash_bros_melee_box_art"
+  }
+}

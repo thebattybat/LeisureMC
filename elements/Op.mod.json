@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Damond"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "airColor": {
+      "value": -26368,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:E"
+    },
+    "portalParticles": {
+      "value": "WATER_BUBBLE"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "CUSTOM:roar"
+    },
+    "igniterName": "Op Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "op-water-logo",
+    "portalTexture": "590-5900765_ironicmeme-ironic-png-sunglasses-emoji-smileyface-emoji-with",
+    "enablePortal": true
+  }
+}

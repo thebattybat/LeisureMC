@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    },
+    "1": {
+      "item": "leisuremc:e"
+    }
+  },
+  "result": {
+    "item": "leisuremc:fabric",
+    "count": 19
+  }
+}

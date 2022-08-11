@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:duplicator"
+    },
+    "1": {
+      "item": "leisuremc:ranged_item_idk"
+    }
+  },
+  "result": {
+    "item": "leisuremc:bookgeter",
+    "count": 1
+  }
+}

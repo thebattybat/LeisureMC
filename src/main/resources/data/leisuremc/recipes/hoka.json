@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:e"
+    },
+    "2": {
+      "item": "leisuremc:e"
+    },
+    "3": {
+      "item": "leisuremc:mod_pizza"
+    },
+    "5": {
+      "item": "leisuremc:mod_pizza"
+    }
+  },
+  "result": {
+    "item": "leisuremc:bowler_dream_boots",
+    "count": 1
+  }
+}

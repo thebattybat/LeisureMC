@@ -1,0 +1,22 @@
+{
+  "boom": {
+    "category": "neutral",
+    "subtitle": "subtitles.boom",
+    "sounds": [
+      {
+        "name": "leisuremc:dramatic_vine_instagram_boom_-_sound_effect_hd",
+        "stream": false
+      }
+    ]
+  },
+  "roar": {
+    "category": "neutral",
+    "subtitle": "subtitles.roar",
+    "sounds": [
+      {
+        "name": "leisuremc:recording1",
+        "stream": false
+      }
+    ]
+  }
+}

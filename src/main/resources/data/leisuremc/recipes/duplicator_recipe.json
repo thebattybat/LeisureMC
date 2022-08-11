@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:mod_pizza"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "item": "leisuremc:mod_pizza"
+    }
+  },
+  "result": {
+    "item": "leisuremc:duplicator",
+    "count": 1
+  }
+}

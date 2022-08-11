@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "leisuremc:mod_pizza"
+    },
+    {
+      "item": "leisuremc:e"
+    }
+  ],
+  "result": {
+    "item": "leisuremc:falevitator",
+    "count": 1
+  }
+}

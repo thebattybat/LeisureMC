@@ -1,0 +1,54 @@
+{
+  "_fv": 28,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "11-112419_levitation-icon-png-transparent-png",
+    "customModelName": "Normal",
+    "name": "levitate",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "BREWING"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "harness 100 percent of ur bran powur"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "FalevitatorRightclicked"
+    },
+    "onStoppedUsing": {
+      "name": "FalevitatorOnPlayerStoppedUsing"
+    },
+    "onFinishUsingItem": {
+      "name": "FalevitatorOnPlayerStoppedUsing"
+    },
+    "hasDispenseBehavior": false,
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

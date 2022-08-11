@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "leisuremc:e"
+    },
+    "1": {
+      "item": "leisuremc:e"
+    },
+    "2": {
+      "item": "leisuremc:e"
+    },
+    "3": {
+      "item": "leisuremc:e"
+    }
+  },
+  "result": {
+    "item": "leisuremc:stop",
+    "count": 1
+  }
+}

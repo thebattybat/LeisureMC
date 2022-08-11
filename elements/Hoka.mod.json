@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:E"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:E"
+      },
+      {
+        "value": "CUSTOM:ModPizza"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ModPizza"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BowlerDream.boots"
+    },
+    "name": "hoka",
+    "namespace": "mod"
+  }
+}
